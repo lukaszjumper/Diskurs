@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+
+.headText {
+    color: aquamarine;
+    margin-top: 20px;
+}
+
+#pseudonim {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
